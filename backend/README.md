@@ -32,8 +32,12 @@ poetry shell
 7 - Crie o projeto Django:
 ```bash
 django-admin startproject mysite
-```git push origin 1
+```
 8 - Execute o servidor:
 ```bash
 python manage.py runserver
+```
+9 - Instalar depedenicas do projeto de desenvolvimento pytest e pytest-django  com o -G dev:
+```bash
+poetry add pytest pytest-django -G dev
 ```
