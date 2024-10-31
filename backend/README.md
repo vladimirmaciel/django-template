@@ -37,7 +37,7 @@ django-admin startproject mysite
 ```bash
 python manage.py runserver
 ```
-9 - Instalar depedenicas do projeto de desenvolvimento pytest e pytest-django  com o -G dev:
+9 - Instalar depedenicas do projeto de desenvolvimento pytest e pytest-django  com  -G dev:
 ```bash
 poetry add pytest pytest-django -G dev
 ```
