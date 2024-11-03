@@ -7,5 +7,5 @@ Template de projeto Django seguindo as boas práticas de desenvolvimento.
 ## Pastas dp projeto
 Na pasta raiz encontram-se as seguintadas pastas:
 1. backend: Contém o código do projeto Django.
-## Poetry
+## Poetry.
 
