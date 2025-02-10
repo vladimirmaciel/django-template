@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "dev-django-template"
+version = "0.1.0"
+description = "Templata de projeto django com as boas práticas"
+authors = ["Vlamidir Serra <vladimirmaciel@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.1.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
